@@ -1,0 +1,15 @@
+aiocron==1.6
+croniter==1.0.13
+DateTime==4.3
+greenlet==1.1.0
+psycopg2-binary==2.8.6
+pyaes==1.6.1
+pyasn1==0.4.8
+python-dateutil==2.8.1
+pytz==2021.1
+rsa==4.7.2
+six==1.16.0
+SQLAlchemy==1.4.17
+Telethon==1.21.1
+tzlocal==2.1
+zope.interface==5.4.0
