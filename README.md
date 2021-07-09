@@ -1,1 +1,1 @@
-# telegram-message-schedular
+# Telegram Message Schedular
