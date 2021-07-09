@@ -1,4 +1,4 @@
-host = 'HOST
+host = 'HOST'
 port = 'PORT'
 database = 'DATABASE'
 user = 'USER'
